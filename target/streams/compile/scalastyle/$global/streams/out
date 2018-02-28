@@ -1,0 +1,20 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/IdeaProjects/spark-assignment-03/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataFrameApplication.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataFrameApplication.scala:17:3: Regular expression matched 'println'[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataFrameApplication.scala: File must end with newline character[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataFrameApplication.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataSetApplication.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataSetApplication.scala:22:15: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataSetApplication.scala:22:38: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataSetApplication.scala:22:61: Magic Number[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/DataSetApplication.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/Operations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/spark-assignment-03/src/main/scala/Operations.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 3 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 5 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 14 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/IdeaProjects/spark-assignment-03/target[0m
+[0m[[0m[33mwarn[0m] [0m[0mwarnings exist[0m

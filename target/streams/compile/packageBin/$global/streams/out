@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/spark-assignment-03_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataFrameApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataFrameApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetApplication$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataSetApplication$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/Operations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataSetApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataFrameApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataFrameApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetApplication$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataSetApplication$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Football.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/Football.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/Operations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	D1.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/D1.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataSetApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Football$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/Football$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataFrameApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataFrameApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/spark-assignment-03/target/scala-2.11/classes/DataSetApplication$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
